@@ -2,7 +2,7 @@ body{
 	background-color: rgba(20,55,45,0.1);
 	background-size: cover;
 	background-attachment: fixed;
-    scroll-behavior: smooth;
+        scroll-behavior: smooth;
   
 
 
@@ -50,10 +50,10 @@ body{
 	color: white;
 	border: 2px solid red ;
 	border-radius: 15px;
-    width: 600px;
-    align-content: center;
-    padding: 3px 3px;
-    text-align: center;
+        width: 600px;
+        align-content: center;
+        padding: 3px 3px;
+        text-align: center;
 	background:red;
 	
 }
